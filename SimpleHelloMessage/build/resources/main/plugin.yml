@@ -1,0 +1,4 @@
+name: SimpleHelloMessage
+version: '1.0'
+main: org.OZI.simpleHelloMessage.SimpleHelloMessage
+api-version: '1.21'
